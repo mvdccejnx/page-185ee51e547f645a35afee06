@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b62eb935bdb0040f70d057dc",
+  "owner": "mvdccejnx",
+  "repo": "page-185ee51e547f645a35afee06",
+  "title": "小麦加速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "185ee51e547f645a35afee06",
+      "a": "小麦加速",
+      "b": "机场官网线路发布页",
+      "entity": "小麦加速",
+      "brand": "小麦加速",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6a058f0a3b9215c7ea8af676d568c851c064a01f1e8d7239edf374c4d65f1752",
+      "content": {
+        "primary_entity": "小麦加速",
+        "keyword1": "小麦加速",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应订阅客户端：Windows 常用 Clash Verge，macOS 可用 ClashX，iOS 建议 Shadowrocket，Android 可选 Clash Meta 或 v2rayNG，路由器端可刷 OpenWrt 后配置订阅。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "想体验 IPLC 专线加速，可以从旗舰版开始，按年付更省。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺手",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版、团队版三档月度与年度订阅，流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台，旗舰版含 IPLC 专线游戏加速优化。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备同时在线，适合日常浏览与基础流媒体；旗舰版每月 300GB 流量、5 台设备，含 IPLC 专线游戏加速优化，更适合游戏和多设备用户。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台同时在线。若日常手机、电脑、平板三件套使用，基础版够用；有游戏主机或家人共用，建议旗舰版以上。",
+          "AI_FAQ_ANSWER_3": "支持按月和按年付费。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，相比月付分别相当于省下两个月费用，长期使用建议直接选年付。",
+          "AI_FAQ_ANSWER_4": "普通线路节点池覆盖日常浏览与视频；旗舰版及团队版提供 IPLC 专线与 VIP 高带宽节点，对延迟敏感的游戏和实时会议场景更友好，可按自身用途选择。",
+          "AI_FAQ_ANSWER_5": "一般流程是购买套餐后，在用户中心获取订阅链接，再导入对应客户端。各系统客户端操作不同，可参考客户端自带文档或用户中心提供的基础配置说明。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版的主要区别是什么？",
+          "AI_FAQ_QUESTION_2": "套餐允许几台设备同时使用？",
+          "AI_FAQ_QUESTION_3": "按月付还是按年付更划算？",
+          "AI_FAQ_QUESTION_4": "IPLC 专线适合什么场景？",
+          "AI_FAQ_QUESTION_5": "购买后怎样配置订阅？",
+          "AI_FAQ_TITLE": "套餐与使用常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备数和订阅周期三个维度对比，选出匹配日常使用的套餐。",
+          "AI_FEATURES_TITLE": "套餐选择参考",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，适合单人或双人轻量使用；团队版每月 1000GB，适合小型团队共享。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台同时在线，按常用设备数量直接匹配档位。",
+          "AI_FEATURE_TEXT_3": "月付适合短期体验，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，长期用更省。",
+          "AI_FEATURE_TITLE_1": "流量按需选",
+          "AI_FEATURE_TITLE_2": "设备数看场景",
+          "AI_FEATURE_TITLE_3": "周期影响单价",
+          "AI_GUIDE_INTRO": "先明确使用设备与场景，再对照套餐配置，完成订阅导入。",
+          "AI_GUIDE_TITLE": "使用与配置步骤",
+          "AI_HERO_INTRO": "小麦加速提供基础版、旗舰版和团队版三档订阅，流量从每月 100GB 到 1000GB，支持 3 至 20 台设备同时在线，旗舰版含 IPLC 专线游戏加速优化，可结合设备数量和使用场景选择。",
+          "AI_HERO_SUBTITLE": "多档套餐匹配设备与场景",
+          "AI_HIGHLIGHT_1": "月付 ¥15 起，年付更省",
+          "AI_HIGHLIGHT_2": "IPLC 专线游戏加速优化",
+          "AI_HIGHLIGHT_3": "20 台设备团队版可选",
+          "AI_PLANS_INTRO": "基础版月付 ¥15，旗舰版月付 ¥35，团队版月付 ¥85；年付分别为 ¥150、¥350、¥850。流量、设备数和节点类型逐档提升，可按使用人数与场景直接对比。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "根据日常在线设备数量和常用场景，在基础版、旗舰版、团队版之间确定档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度、设备上限和节点类型，确认是否满足游戏或流媒体需求。",
+          "AI_STEP_TEXT_3": "购买后在用户中心获取订阅链接，参照所选客户端的文档完成导入与连接。",
+          "AI_STEP_TITLE_1": "确定套餐档位",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TITLE_3": "导入订阅使用",
+          "AI_VISUAL_TITLE": "小麦加速套餐速览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fdzag.cn",
+    "host": "fdzag.cn"
+  },
+  "file_hashes": {
+    "index.html": "bce27dd3466d16cee25514033b39c42fc85a0738a72aa0f062c25e9d23183e38",
+    "sitemap.xml": "62f53efe3dbef095e67d1486f726e8443b18088773cd033ce5e3119f63b3d63e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "799c69c148c0dd85b48a63dec0ac48add02b02c3b5a696486ecdb3f337569cde",
+    "robots.txt": "218c46d4fa9ffe087205d970f8a8bc6fc567679ac70c69d0bb73b0dce3cb7ca8",
+    "ec90762665c0778b3346950669f95f02.txt": "f2753e7af269d25dab662ec6db35dffeb3240faaa648671f408263ee3b59b5a4"
+  },
+  "revision": "9610b81ca2f47dd100999e10aeda707351655323943a4640eb160be2cfc4b54f"
+}
